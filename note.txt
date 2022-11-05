@@ -1,0 +1,8 @@
+font-family: 'Poppins', sans-serif;
+
+color
+#ffffff white
+#00bec9 akashi
+#daac00 not yellow
+#fcc302 yellow
+#313243 not black

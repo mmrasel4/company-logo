@@ -1,0 +1,516 @@
+
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+.logo{
+width: 140px;
+}
+/*haeder*/
+header{
+
+    padding: 5px 0;
+}
+    .menu ul li a {
+    padding: 0 0px !important;
+    margin-top: 10px;
+}
+
+    /*haeder*/
+ /*banner*/
+.banner {
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.b_text {
+    text-align: center;
+    margin-top: 20px;
+}
+.b_text {
+    margin-top: 10px;
+}
+.b_text h1{
+font-size: 24px;
+}
+.b_img img {
+    margin-left: 13px;
+    padding: 0px 50px;
+}
+/*banner*/
+/*banner2*/
+.service {
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.ss_text {
+    text-align: center;
+    margin-top: 40px;
+    margin-right: 0;
+}
+.ss_text h1{
+font-size: 22px;
+}
+.ss_p {
+    margin-right: 0;
+ 
+}
+
+.ss_img img{
+    margin-left: 0px;
+    padding: 0 30px;
+}
+
+/*banner2*/
+/*title*/
+.title {
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.f_h2 {
+    font-size: 20px;
+}
+.f_img img {
+ width: 200px;
+}
+/*title*/
+/*ourservice*/
+.ourservice {
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.our_text {
+     margin-top: 50px;
+    text-align: center;
+}
+.our_text h1 {
+    font-size: 22px;
+    margin-top: -18px;
+}
+.our_img {
+margin-left: 30px;
+width: 80%;
+}
+/*ourservice*/
+/*title2*/
+.b_title22 {
+    margin-left: 35%;
+}
+.f_imgt img {
+    width: 210px;
+}
+/*title2*/
+/*team*/
+.team{
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+
+.teamlink11 {
+    width: 30%;
+    margin-left: 35%;
+}
+/*team*/
+/*doctor*/
+.doctor{
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.d_img1 {
+    width: 43%;
+}
+.d_img11{
+    margin-top: 20px;
+    width: 25%;
+
+}
+.d_content h2 {
+    font-size: 20px;
+    margin-left: -11px;
+}
+.d_content h1 {
+    font-size: 18px;
+}
+/*doctor*/
+/*recent*/
+.teamart{
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.f_imgt {
+    padding: 0px 0;
+}
+.r_h1 {
+    text-align: center;
+    padding: 5px 0px;
+    font-size: 19px;
+}
+.r_p {
+    text-align: center;
+    padding: 0 0px;
+}
+.r_p2 {
+    text-align: center;
+    padding: 0 0px;
+}
+.r_p1 {
+    text-align: center;
+    padding: 0 0px;
+}
+/*recent*/
+/*footer*/
+footer{
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.f_1 {
+    text-align: center;
+}
+.f_2 {
+    text-align: center;
+    margin: 20px 0;
+}
+.f_3 {
+    text-align: center;
+}
+/*footer*/
+
+
+
+
+
+ }
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+	/*haeder*/
+    .menu ul li a {
+    padding: 0 0px !important;
+    margin-top: 10px;
+}
+    /*haeder*/
+     /*banner*/
+.banner {
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.b_text {
+    text-align: center;
+    margin-top: 20px;
+}
+.b_text {
+    margin-top: 10px;
+}
+.b_img img {
+    margin-left: 13px;
+    padding: 0px 50px;
+}
+
+/*banner*/
+/*banner2*/
+.service {
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.ss_text {
+    text-align: center;
+    margin-top: 40px;
+}
+.ss_p {
+    margin-right: 0;
+}
+.ss_img img{
+    margin-left: 0px;
+    padding: 0 30px;
+}
+
+/*banner2*/
+/*title*/
+
+.title {
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.f_h2 {
+    font-size: 20px;
+}
+
+/*title*/
+/*ourservice*/
+.ourservice {
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.our_text {
+     margin-top: 50px;
+    text-align: center;
+}
+.our_img {
+margin-left: 80px;
+width: 70%;
+}
+/*ourservice*/
+/*title2*/
+.b_title22 {
+    margin-left: 21%;
+}
+/*title2*/
+/*team*/
+.team{
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.t_h2 {
+    font-size: 18px;
+    font-weight: 700;
+}
+.teamlink11 {
+    width: 53%;
+    margin-left: 24%;
+}
+
+/*team*/
+/*doctor*/
+.doctor{
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.d_img1 {
+    width: 43%;
+}
+.d_content h2 {
+    font-size: 20px;
+    margin-left: -4px;
+}
+.d_content h1 {
+    font-size: 20px;
+}
+/*doctor*/
+/*recent*/
+.teamart{
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.f_imgt {
+    padding: 0px 0;
+}
+.r_h1 {
+    text-align: center;
+    padding: 5px 0px;
+    font-size: 19px;
+}
+.r_p {
+    text-align: center;
+    padding: 0 0px;
+}
+.r_p2 {
+    text-align: center;
+    padding: 0 0px;
+}
+.r_p1 {
+    text-align: center;
+    padding: 0 0px;
+}
+/*recent*/
+/*footer*/
+footer{
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+/*footer*/
+
+
+ }
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /*haeder*/
+    .menu ul li a {
+    padding: 0 0px !important;
+    margin-top: 10px;
+}
+    /*haeder*/
+    /*banner*/
+    .banner {
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+.b_text {
+    text-align: center;
+    margin-top: 20px;
+}
+.b_img img {
+    margin-left: 160px;
+}
+
+/*banner*/
+/*banner2*/
+.service {
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+.ss_text {
+    text-align: center;
+    margin-top: 60px;
+}
+.ss_p {
+    margin-right: 0;
+}
+.ss_img img{
+    margin-left: 80px;
+}
+
+/*banner2*/
+/*title*/
+.title {
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+.f_h2 {
+    font-size: 22px;
+}
+/*title*/
+/*ourservice*/
+.ourservice {
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+.our_text {
+     margin-top: 50px;
+    text-align: center;
+}
+   
+
+.our_img img{
+    margin-left: 113px;
+    width: 75%;
+}
+    
+
+/*ourservice*/
+/*title2*/
+.b_title22 {
+    margin-left: 29%;
+}
+/*title2*/
+/*team*/
+.team{
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+.teamlink11 {
+    width: 37%;
+    margin-left: 31%;
+}
+/*team*/
+/*doctor*/
+.doctor{
+padding-top: 100px;
+padding-bottom: 80px;
+}
+
+.d_content h2 {
+    font-size: 20px;
+    margin-left: -12px;
+}
+.d_content h1 {
+    font-size: 24px;
+}
+/*doctor*/
+/*recent*/
+.teamart{
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+.f_imgt {
+    padding: 0px 0;
+}
+.r_h1 {
+    text-align: center;
+    padding: 5px 0px;
+    font-size: 19px;
+}
+.r_p {
+    text-align: center;
+    padding: 0 0px;
+}
+.r_p2 {
+    text-align: center;
+    padding: 0 0px;
+}
+.r_p1 {
+    text-align: center;
+    padding: 0 0px;
+}
+/*recent*/
+/*footer*/
+footer{
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+/*footer*/
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*banner2*/
+.ss_text{
+margin-top: 100px;
+
+}
+/*banner2*/
+/*title*/
+
+/*title*/
+/*ourservice*/
+.our_text {
+margin-top: 73px;
+}
+/*ourservice*/
+/*title2*/
+.b_title22 {
+    margin-left: 34%;
+
+}
+/*title2*/
+/*team*/
+.teamlink11 {
+    width: 28%;
+    margin-left: 36%;
+}
+/*team*/
+/*recent*/
+.teamart{
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+.f_imgt {
+    padding: 0px 0;
+}
+.r_h1 {
+    padding: 0 26px;
+}
+.r_p {
+    padding: 0 26px;
+}
+.r_p2 {
+    padding: 0 26px;
+}
+.r_p1 {
+    padding: 0 26px;
+}
+/*recent*/
+
+ }
+
+/*Extra Large devices (desktops, 992px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+
+ }
+
+
+/*Extra Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) { 
+
+ }
